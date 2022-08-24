@@ -133,3 +133,12 @@
 .card h2 {
   background-color: #fff;
 }
+
+.quote {
+  color: var(--brightyellow);
+  background: var(--darkblue);
+  padding: 1%;
+  margin: 1% 0 0 0;
+  text-align: center;
+  font-family: var(--font1);
+}
