@@ -118,8 +118,17 @@
   display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
+  margin: 3% 4%;
 }
 
 .card {
   flex: 10 10 auto;
+  padding: 5%;
+  margin: 2%;
+  background: #fff;
+  border-radius: 0.4em;
+}
+
+.card h2 {
+  background-color: #fff;
 }
