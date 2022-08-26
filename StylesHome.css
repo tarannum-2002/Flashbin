@@ -122,18 +122,6 @@
   margin: 3% 8%;
 }
 
-.card {
-  flex: 10 10 auto;
-  padding: 5%;
-  margin: 2%;
-  background: #fff;
-  border-radius: 0.4em;
-}
-
-.card h2 {
-  background-color: #fff;
-}
-
 .quote {
   color: var(--brightyellow);
   background: var(--darkblue);
