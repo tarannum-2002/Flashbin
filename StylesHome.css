@@ -177,3 +177,14 @@
   pointer-events: none;
   background: #ccc;
 }
+
+/*how do we work styles*/
+.list-of-workspace {
+  display: flex;
+  justify-content: space-evenly;
+}
+.list-of-workspace .post {
+  padding: 6%;
+  background-color: #fff;
+  margin: 3%;
+}
